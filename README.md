@@ -52,3 +52,7 @@ For more on scroll:
 
 [scrollIntoView()](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView)  
 [scrollTo()](https://developer.mozilla.org/en-US/docs/Web/API/Window/scrollTo)
+
+Screenshot:
+
+![Just a screenshot](/screenshot/screenshot.png)
